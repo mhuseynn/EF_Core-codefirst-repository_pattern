@@ -1,0 +1,13 @@
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\bin\Debug\net6.0\LibraryDb_Model.deps.json
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\bin\Debug\net6.0\LibraryDb_Model.dll
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\bin\Debug\net6.0\LibraryDb_Model.pdb
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\obj\Debug\net6.0\LibraryDb_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\obj\Debug\net6.0\LibraryDb_Model.AssemblyInfoInputs.cache
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\obj\Debug\net6.0\LibraryDb_Model.AssemblyInfo.cs
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\obj\Debug\net6.0\LibraryDb_Model.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\obj\Debug\net6.0\LibraryDb_Model.dll
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\obj\Debug\net6.0\refint\LibraryDb_Model.dll
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\obj\Debug\net6.0\LibraryDb_Model.pdb
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\obj\Debug\net6.0\ref\LibraryDb_Model.dll
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\bin\Debug\net6.0\LibraryDb_Model.runtimeconfig.json
+C:\Users\Huseyn\source\repos\LibraryDb\LibraryDb_Model\obj\Debug\net6.0\LibraryDb_Model.genruntimeconfig.cache
